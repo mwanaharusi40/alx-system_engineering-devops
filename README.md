@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Prints Hello World
+Creating an alias
