@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# This script is displaying "Holberton School" 10 times, using while loop.
+# displays "Best School" 10 times, using the while loop.
 
 while _ in {1..10}
 do
-        echo 'Best School'
+	echo 'Best School'
 done
